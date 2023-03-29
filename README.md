@@ -4,7 +4,7 @@
   
 
 - <b>Automation of Port Scanning Pentesting Project</b>
-  - [Automation of Port Scanning Pentesting Project]
+  - [Automation of Port Scanning Pentesting Project](https://github.com/nafees094/Automation-of-Port-Scanning-Pentesting)
 - <b>Automation of Cybersecurity News Project</b>
   - [Automation of Cybersecurity News](https://github.com/nafees094/Automation-of-Cybersecurity-News-with-Python-Script-Project)
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
