@@ -3,6 +3,8 @@
 <h2>🔁 Automations Using Script Projects:</h2>
   
 
+- <b>Automation of Port Scanning Pentesting Project</b>
+  - [Automation of Port Scanning Pentesting Project]
 - <b>Automation of Cybersecurity News Project</b>
   - [Automation of Cybersecurity News](https://github.com/nafees094/Automation-of-Cybersecurity-News-with-Python-Script-Project)
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
@@ -24,14 +26,4 @@
   - [REST API with Node JS and Express]()
 - <b>AWS Web Application Security using DVWA Project</b>
   - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project]()
-  
-<h2>📱 Mobile App Development Projects:</h2>
-
-- <b>Food Delivery Application using Kotlin/HTML/CSS Project</b>
-  - [Android Studio: Omeal](https://youtu.be/1oL-4Zecd7Q)
-
-<h2>🥇 Certifications</h2>
-
-- [IBM Cloud Security Engineer](https://github.com/anwarsyed1/IBM-Cloud-Security-Engineer-Cert-)
-- [Microsoft Certified: Azure Fundamentals]()
-- [AWS Certified Cloud Practitioner]()
+ 
