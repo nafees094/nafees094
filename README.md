@@ -2,10 +2,7 @@
   
 <h2>🔁 Automations Using Script Projects:</h2>
   
-- <b>Automation of Pentesting Port Scanner Project</b>
-  - [Automation of Port Scanning Pentesting Project]()
-- <b>Automation of Pentesting NMP Scanner Project</b>
-  - [Automation of NMP Pentesting Project]()
+
 - <b>Automation of Cybersecurity News Project</b>
   - [Automation of Cybersecurity News](https://github.com/nafees094/Automation-of-Cybersecurity-News-with-Python-Script-Project)
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
