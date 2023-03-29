@@ -24,8 +24,6 @@
 
 <h2>🖥️ Software/Application Security Projects:</h2>
 
-- <b>REST API for Medical Clinic with Node JS and Express Project</b>
-  - [REST API with Node JS and Express]()
 - <b>AWS Web Application Security using DVWA Project</b>
   - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project]()
  
