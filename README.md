@@ -10,7 +10,7 @@
   - <b>Automation of Cybersecurity News Project</b>
   - [Automation of Cybersecurity News](https://github.com/nafees094/Automation-of-Cybersecurity-News-with-Python-Script-Project)
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
-  - [Automation of Cybersecurity CVE (Common Vulnerabilities and Exposures) List Generator Project]()
+  - [Automation of Cybersecurity CVE (Common Vulnerabilities and Exposures) List Generator Project](https://github.com/nafees094/Automation-of-Cybersecurity-CVE-List-Generator-Project)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
