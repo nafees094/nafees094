@@ -20,7 +20,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory](https://github.com/nafees094/Active-Directory-Project)
 - <b>Nessus Essential Vulnerability Management Project</b>
-  - [Nessus Essential Vulnerability Management]()
+  - [Nessus Essential Vulnerability Management](https://github.com/nafees094/Vulnerability-Management-Nessus-Essential)
 
 <h2>🖥️ Software/Application Security Projects:</h2>
 
